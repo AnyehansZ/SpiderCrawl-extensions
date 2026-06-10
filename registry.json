@@ -1,0 +1,11 @@
+{
+  "extensions": [
+    {
+      "name": "example_site",
+      "version": "1.0.0",
+      "download_url": "https://github.com/AnyehansZ/SpiderCrawl-extensions/raw/main/extensions/example_site.zip",
+      "author": "you",
+      "description": "Parser for example novel site"
+    }
+  ]
+}
