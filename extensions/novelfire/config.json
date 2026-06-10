@@ -1,0 +1,8 @@
+{
+  "name": "novelfire",
+  "version": "1.0.0",
+  "site_url": "https://novelfire.net",
+  "enabled": true,
+  "author": "crawler_developer",
+  "description": "Parser for Novel Fire"
+}
