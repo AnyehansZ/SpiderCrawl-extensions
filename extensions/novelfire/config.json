@@ -1,7 +1,7 @@
 {
   "name": "novelfire",
   "version": "1.0.0",
-  "site_url": "https://novelfire.net",
+  "download_url": "https://github.com/AnyehansZ/SpiderCrawl-extensions/raw/main/extensions/novelfire",
   "enabled": true,
   "author": "crawler_developer",
   "description": "Parser for Novel Fire"
